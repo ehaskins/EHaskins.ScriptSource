@@ -1,0 +1,19 @@
+﻿{
+    "version": "0.1.0-beta",
+    "dependencies": {
+        "Microsoft.Framework.Runtime": "1.0.0-beta3",
+        "System.Security.Cryptography.Hashing.Algorithms": "4.0.0-*"
+    },
+
+    "frameworks": {
+        "aspnet50": {
+            "dependencies": {
+            }
+        }/*,
+        "aspnetcore50": {
+            "dependencies": {
+                "System.Runtime": "4.0.20-beta-22523"
+            }
+        }*/
+    }
+}
