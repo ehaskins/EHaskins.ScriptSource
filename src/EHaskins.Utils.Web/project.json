@@ -1,8 +1,7 @@
 ﻿{
-    "version": "0.1.0-beta",
+    "version": "0.1.1-beta",
     "dependencies": {
-        "Microsoft.Framework.Runtime": "1.0.0-beta3",
-        "System.Security.Cryptography.Hashing.Algorithms": "4.0.0-*"
+        "Microsoft.Framework.Runtime": "1.0.0-beta3"
     },
 
     "frameworks": {
